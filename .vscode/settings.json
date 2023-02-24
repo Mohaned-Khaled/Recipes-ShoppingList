@@ -1,0 +1,5 @@
+{
+  "search.searchEditor.defaultNumberOfContextLines": 1,
+  "search.searchOnTypeDebouncePeriod": 300,
+  "editor.fontSize": 14
+}
